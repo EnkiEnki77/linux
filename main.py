@@ -2,7 +2,20 @@
 
 # To execute a file in python: python file.py
 
+# To conduct mathematical operations: expr 123 + 123
+
 # Shell, CLI, and Terminal often refer to the same thing, a program utilized for issuing text-based
 # commands.
 # Pedantically though the terminal is responsible just for drawing text on the screen and processing
-# key strokes, the CLI or Shell is the program that handles the commands.
+# key strokes
+# The program that actually runs commands in the terminal is the shell. Their job is to interpret commands
+# typed into your terminal and execute them.
+
+# shell's are often referred to as REPL (read, evaluate, print, loop)
+
+# They read the command typed into your terminal
+# Evaluate it, usually by running other programs on your computer
+# Output the result to the terminal
+# Prompt for another input.
+
+
