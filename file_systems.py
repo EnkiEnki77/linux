@@ -40,3 +40,17 @@
 
 
 
+
+# The cat command allows you to view the contents of a file or multiple and concatenate their contents
+
+# If you only want to print a certain portion of a file use head -n int, starts from the first line
+
+# tail works similar but starting from the end of the file.
+
+
+# To go back multiple directories in the file system use cd ../..
+
+
+
+
+
