@@ -21,4 +21,10 @@
 # The ls command lets you see the contents of your current working directory
 
 
-# The cd command lets you go to a directory in your working directory.
+# The cd command lets you go to a directory further down in the filesystem tree.
+# cd .. lets you move back up a directory.
+
+
+# You can pass an argument to ls to read the contents of child directories of your working directory:
+# ls worldbanc
+
