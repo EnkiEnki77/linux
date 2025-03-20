@@ -28,3 +28,15 @@
 # You can pass an argument to ls to read the contents of child directories of your working directory:
 # ls worldbanc
 
+
+
+# relative filepaths take your working directory into account, so they only show the file path to a
+# resource starting from your working directory.
+
+# absolute filepaths start from the root directory.
+
+
+# Relative paths are useful when you know what directory youre in, absolute when you dont.
+
+
+
