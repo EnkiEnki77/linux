@@ -4,6 +4,10 @@
 
 # To conduct mathematical operations: expr 123 + 123
 
+# To create and use variables:
+# name="enki"
+# echo $name
+
 # Shell, CLI, and Terminal often refer to the same thing, a program utilized for issuing text-based
 # commands.
 # Pedantically though the terminal is responsible just for drawing text on the screen and processing
@@ -17,5 +21,14 @@
 # Evaluate it, usually by running other programs on your computer
 # Output the result to the terminal
 # Prompt for another input.
+
+
+# Its helpful to be able to see the commands youve typed in the past so you can easily re run them
+# or copy paste them into a script.
+
+# The command for seeing your command history is... history.
+
+
+# You can clear your terminal screen using the clear command
 
 
