@@ -94,6 +94,19 @@
 
 
 
+# grep has capabilities such as letting you search for a word in a file.
+# It will print every line in the file that contains that word
+
+# You can also search multiple files: grep "hello" file.txt file_2.txt
+
+# Or recursively search a whole directory: grep -r "hello"
+
+# . is an alias for the working directory.
+
+
+
+
+
 
 
 
