@@ -20,3 +20,22 @@
 # The last 3 are permissions for everyone else.
 
 
+
+# chmod command lets you change permissions.
+
+# ls has an -l flag that prints out the permissions for each item
+
+# chmod -R u=,g=,o= directory, lets you recursively change all the permissions in a directory.
+
+
+
+# Executable files are files where the data is a program you can run on your computer.
+
+# Files that end in .sh are shell scripts. They contain shell commands you can execute.
+
+# you can execute a file by typing its filepath into the terminal.
+
+# The -x flag on chmod strips a files execution permission.
+
+# To add it back do u+x
+
