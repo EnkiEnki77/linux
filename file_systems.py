@@ -69,6 +69,15 @@
 
 
 
+# mv command renames or moves a file.
+# To rename: mv some_file.txt new_name.txt
+# To move a file from current directory to a nested one: mv some_file.txt some_directory/some_file.txt
+# To move a file to parent directory: mv some_file.txt ../some_file.txt
+# You can also rename a file when you move it, if you just want to move it, you can omit the file name:
+# mv some_file.txt some_directory/
+
+
+
 
 
 
