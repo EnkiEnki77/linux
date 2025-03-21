@@ -77,6 +77,10 @@
 # mv some_file.txt some_directory/
 
 
+# The rm command deletes a file or empty directory.
+# you can add the -r flag to delete all of a directories contents recursively.
+
+
 
 
 
