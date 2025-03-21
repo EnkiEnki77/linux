@@ -82,6 +82,20 @@
 
 
 
+# The cp command copies a file from one directory to another: cp some_file.txt destination/
+# Or you can recursively copy a directory and its contents to another: cp -R my_dir new_dir
+
+
+# A users home directory is where their personal files are stored. Its also the directory a user starts
+# in when logging into a system.
+# A good convention is to do all programming work in a workspace directory in your home directory.
+
+# To cd home use the ~.
+
+
+
+
+
 
 
 
