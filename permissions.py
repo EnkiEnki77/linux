@@ -39,3 +39,19 @@
 
 # To add it back do u+x
 
+
+
+# The root user is a super user, they have access to everything on the system and can do anything.
+
+# When you use the sudo command youre running as the root user. You have to be careful, as the root user
+# you can do damage to the operating system.
+
+# For example rm command with r and f flags on your root directory as a super user will delete every single
+# thing in your file system.
+
+# The r is for recursively delete everything inside, the f is for force.
+
+# Most systems will prevent you from doing that, but with sudo you can do anything.
+
+
+
