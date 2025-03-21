@@ -105,6 +105,15 @@
 
 
 
+# Use find command to find a file or directory by name in a given directory: find directory/ -name file.txt
+
+# Can also find files that match a pattern: find -name "*.txt"
+
+# * is a wildcard that matches anything. If you want to find files that contain a specific word you can
+# use * to match everything else.
+# Use the wildcard on both ends of a query if you dont know where it might be in the word or if its in the
+# middle.
+
 
 
 
