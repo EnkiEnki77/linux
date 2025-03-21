@@ -65,6 +65,9 @@
 # It can be used to check if files exist without altering them.
 
 
+# mkdir command creates in a new directory in the working directory.
+
+
 
 
 
