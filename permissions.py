@@ -55,3 +55,8 @@
 
 
 
+# chown command allows you to change the owner of a file or directory, it requires root privileges.
+
+
+
+
