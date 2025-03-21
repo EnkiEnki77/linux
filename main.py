@@ -31,4 +31,15 @@
 
 # You can clear your terminal screen using the clear command
 
+# To see all environment variables use the env command
+
+# To evaluate a local or environment variable: echo $variable
+
+# export command makes variables within scope to sub processes, local variables without export are only
+# available to the shell.
+
+# Programs you run in your shell such as a python or shell script can use variables defined with export
+
+
+
 

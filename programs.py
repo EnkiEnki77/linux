@@ -46,3 +46,6 @@
 
 
 # Use the nano command to edit files
+
+# You can edit the bash config to give a message or run a function whenever you start a new shell environment
+
