@@ -52,5 +52,22 @@
 
 
 
+# The less and more commands allow you to view the contents of a file one page or line at a time.
+# less is the same as more just with more features.
+# Press enter to go down a line, q to exit back to your shell,
+# pass in -N to show line numbers
+# Use spacebar to scroll a page down, and b to go back up.
+
+
+
+# Touch updates the access and modification timestamps of a file. If a file doesnt exist it will create
+# an empty file with that name. You can also create multiple files at once
+# It can be used to check if files exist without altering them.
+
+
+
+
+
+
 
 
