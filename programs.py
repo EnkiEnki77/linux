@@ -70,4 +70,9 @@
 
 
 
-# If you
+# If you install a new program and you get a command not found error when trying to execute it in the shell
+# It's likely because the directory it's installed in isn't in the list of directories for PATH.
+
+# You can add a script to your PATH to make it executable from anywhere by adding its absolute path to PATH
+# export PATH="$PATH:new/path"
+
