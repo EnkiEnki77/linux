@@ -49,3 +49,25 @@
 
 # You can edit the bash config to give a message or run a function whenever you start a new shell environment
 
+
+
+# You can add environment variables using the export command, and you can view all the environment variables
+# using the env command.
+
+# To give execution privilege for a file run chmod +x ./file.txt
+
+
+
+# There are environment variables built in to your shell, meaning different programs and parts of your
+# system know about them.
+# For example PATH
+
+# The PATH variable is a list of directories your shell will look into when you run a command.
+# If you type ls for example, your shell will look in every directory listed in PATH until it finds an ls
+# executable. If it finds one itll run it, otherwise itll give an error like command not found.
+
+# Without PATH you could only run executables through their full path.
+
+
+
+# If you
