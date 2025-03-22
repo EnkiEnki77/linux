@@ -76,3 +76,8 @@
 # You can add a script to your PATH to make it executable from anywhere by adding its absolute path to PATH
 # export PATH="$PATH:new/path"
 
+# Doing the above will only change PATH for the current shell session. To change it permanently you have
+# to add the above command to the shell config.
+
+
+
